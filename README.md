@@ -6,8 +6,7 @@ Simple plug and play module to add Blog functionality to a PPI2 app.
 Modules
 -------
 
-BlogAdminModule
-~~~~~~~~~~~~~~~~
+**BlogAdminModule**
 
 This module has the admin functionality, where you can:
 
@@ -15,8 +14,7 @@ This module has the admin functionality, where you can:
 - Edit a Post
 
 
-BlogModule
-~~~~~~~~~~~
+**BlogModule**
 
 This module has the front-end functionality, where you have the Blog Index, Blog Single View, Posts by Categories View, among other common blog stuff.
 
